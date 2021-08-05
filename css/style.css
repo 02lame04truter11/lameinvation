@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(126, 192, 170);
+}
+.parent{
+    height: 500px;
+    background-color:hsl(32, 76%, 56%) ;
+    width: 500px;
+    font-size: 45px;
+
+   }
+   .em{
+       font-size: 1em;
+       text-shadow: 4px 5px 4px;
+       text-align: center;
+       line-height: 32px;
+      letter-spacing: 13px;;
+      background-color: rgb(236, 152, 152);
+   }
+
+
+   
